@@ -17,7 +17,7 @@
   font-size: 12pt;
   color: #74737A;
   font-family: 'Playfair Display';
-  padding: 5px;
+  padding: 10px;
   text-align: center
 }
 .normal_text {
@@ -66,11 +66,11 @@ ul {
 }
 
 [data-theme="dark"] {
+    --link-title-color: #FF968A;
     --title-color: #00B0BA;
     --navigation-color: #74737A;
     --normal-text-color: #1F2833;
     --link-normal-color: #97CAEF;
-    --heading-color: #818cab;
 }
 body {
   font-family: 'Helvetica', 'Arial', sans-serif;
