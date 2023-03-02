@@ -15,6 +15,9 @@
     --link-normal-text-color: #B4D2E7;
     --background-color: #000000
 }
+body {
+  background-color: var(--bg-color);
+}
 .link_title {
   text-decoration:none;
   font-size: 15pt;
