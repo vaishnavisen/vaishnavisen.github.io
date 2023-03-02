@@ -5,12 +5,12 @@
   <nav>
     {% for item in site.data.navigation %}
       <a href="{{ item.link }}" class = "navigation">
-        {{ item.name }};
+        {{ item.name }}
       </a>
     {% endfor %}
   </nav>
 
-  <div class="navigation" style="display: flex; flex-flow: column; flex-wrap: wrap; justify-content: right; text-align: right;">
+  <div class="navigation" style="justify-content: right; text-align: right;">
     <a><i class="fa-regular fa-moon theme-switch"></i></a>
   </div>
 
