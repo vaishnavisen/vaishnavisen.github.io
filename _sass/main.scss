@@ -18,6 +18,7 @@
   color: #74737A;
   font-family: 'Playfair Display';
   padding: 5px;
+  text-align: center
 }
 .normal_text {
   color: #1F2833;
@@ -56,31 +57,27 @@ ul {
   list-style-type: none; /* Remove bullets */
   padding: 0; /* Remove padding */
 }
-@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,700|Sansita+One);
   
 :root {
-    --primary-color: #302AE6;
-    --secondary-color: #536390;
-    --font-color: #424242;
-    --bg-color: #fff;
-    --heading-color: #292922;
+    --link-title-color: #FF968A;
+    --title-color: #00B0BA;
+    --navigation-color: #74737A;
+    --normal-text-color: #1F2833;
+    --link-normal-color: #97CAEF;
 }
 
 [data-theme="dark"] {
-    --primary-color: #9A97F3;
-    --secondary-color: #818cab;
-    --font-color: #e1e1ff;
-    --bg-color: #161625;
+    --title-color: #00B0BA;
+    --navigation-color: #74737A;
+    --normal-text-color: #1F2833;
+    --link-normal-color: #97CAEF;
     --heading-color: #818cab;
 }
 
 body {
-  font-family: "Lato", sans-serif;
-  background-color: var(--bg-color);
-  color: var(--font-color);
-  max-width: 90%;
-  margin: 0 auto;
-  font-size: calc(1rem + 0.25vh);
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: var(--normal-text-color);
+  font-size: 11pt;
 }
 
 h1 {

@@ -4,35 +4,39 @@
       {{ item.name }} &nbsp;&nbsp;&nbsp;&nbsp;
     </a>
   {% endfor %}
-  <div class="theme-switch-wrapper">
-       <label class="theme-switch" for="checkbox">
-    <input type="checkbox" id="checkbox" />
-    <div class="slider round"></div>
-  </label>
-    <em>Enable Dark Mode!</em>
-  </div>
-</nav>
+<div class="switch-container" style="display: flex; flex-flow: column; flex-wrap: wrap; justify-content: center; text-align: center;">
+  <a><i class="fa-regular fa-moon theme-switch"></i></a>
+</div>
+
 <script>
-const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
-const currentTheme = localStorage.getItem('theme');
-
-if (currentTheme) {
-    document.documentElement.setAttribute('data-theme', currentTheme);
-  
-    if (currentTheme === 'dark') {
-        toggleSwitch.checked = true;
-    }
-}
-
+// Note that this script *must* be defined after the above div.
+const toggleSwitch = document.querySelector('.theme-switch');
 function switchTheme(e) {
-    if (e.target.checked) {
+    theme = localStorage.getItem('theme')
+    if (theme == "dark") {
+        // Switch to light theme.
+        document.documentElement.setAttribute('data-theme', 'light');
+        toggleSwitch.classList.remove("fa-sun")
+        toggleSwitch.classList.add("fa-moon")
+        localStorage.setItem('theme', 'light')
+    } else {
+        // Switch to dark theme.
         document.documentElement.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
+        toggleSwitch.classList.remove("fa-moon")
+        toggleSwitch.classList.add("fa-sun")
+        localStorage.setItem('theme', 'dark')
     }
-    else {        document.documentElement.setAttribute('data-theme', 'light');
-          localStorage.setItem('theme', 'light');
-    }    
+}
+toggleSwitch.addEventListener('click', switchTheme, false);
+
+// Initialize the theme on new page loads.
+const currentTheme = localStorage.getItem('theme') || 'light';
+document.documentElement.setAttribute('data-theme', currentTheme);
+if (currentTheme === 'dark') {
+    toggleSwitch.classList.remove("fa-moon")
+    toggleSwitch.classList.add("fa-sun")
 }
 
-toggleSwitch.addEventListener('change', switchTheme, false);
 </script>
+
+</nav>
