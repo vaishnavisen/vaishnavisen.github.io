@@ -1,0 +1,16 @@
+---
+layout: default
+title: Blog
+---
+<div id = "page_margin">
+<p class="title">Blog Posts</p>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a class = "link_title" href="{{ post.url }}">{{ post.title }}</a>
+      <div class = "normal_text"> {{ post.excerpt }} </div>
+    </li>
+  {% endfor %}
+</ul>
+</div>
