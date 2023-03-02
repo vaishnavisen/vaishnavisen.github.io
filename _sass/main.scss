@@ -18,7 +18,7 @@
   color: #74737A;
   font-family: 'Playfair Display';
   padding: 10px;
-  text-align: center
+  text-align: left
 }
 .normal_text {
   color: #1F2833;
@@ -40,7 +40,7 @@
 #header {
   margin-top: 50px;
   margin-bottom: 50px;
-  text-align: center;
+  display: flex;
 }
 center {
   margin: auto;
@@ -96,4 +96,13 @@ section {
 em {
     margin-left: 10px;
     font-size: 1rem;
+}
+.site-nav-container {
+    flex: 1 0 auto;
+}
+.dark-mode-switch-container {
+    flex: 0 0 auto;
+    display: flex;
+    flex-flow: row;
+    align-content: flex-end;
 }
