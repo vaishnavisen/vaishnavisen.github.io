@@ -9,7 +9,7 @@
   </head>
   <body>
     {% include navigation.html %}
-    <include src = ./_includes/darkModeSwitch.html></include>
+    {{ partial "darkModeSwitch.html" }}
     {{ content }}
   </body>
 </html>
