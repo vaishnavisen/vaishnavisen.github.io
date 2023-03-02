@@ -7,14 +7,18 @@
   width: 1em;
   margin-right: 0.5em;
 }
-</style>
+</style> 
+
 <script src="https://kit.fontawesome.com/4f0ac268ab.js" crossorigin="anonymous"></script>
+
 <nav id = "header">
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}" class = "navigation">
       {{ item.name }} &nbsp;&nbsp;&nbsp;&nbsp;
     </a>
   {% endfor %}
+</nav>
+
 <div class="switch-container" style="display: flex; flex-flow: column; flex-wrap: wrap; justify-content: center; text-align: center;">
   <a><i class="fa-regular fa-moon theme-switch"></i></a>
 </div>
@@ -50,4 +54,3 @@ if (currentTheme === 'dark') {
 
 </script>
 
-</nav>
