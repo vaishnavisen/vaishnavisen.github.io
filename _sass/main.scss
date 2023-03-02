@@ -20,7 +20,7 @@
   padding: 10px;
 }
 .navigation-container {
-  flex: 1 0 auto;
+  flex: 1 1 auto;
 }
 .normal_text {
   color: #1F2833;
@@ -98,15 +98,16 @@ section {
   color: var(--secondary-color);
 }
 em {
-    margin-left: 10px;
-    font-size: 1rem;
+  margin-left: 10px;
+  font-size: 1rem;
 }
 .site-nav-container {
-    flex: 1 0 auto;
+  flex: 1 0 auto;
 }
 .dark-mode-switch-container {
-    flex: 0 0 auto;
-    display: flex;
-    flex-flow: row;
-    align-content: flex-end;
+  flex: 0 0 auto;
+  display: flex;
+  flex-flow: row;
+  align-content: flex-end;
+  font-size: 1.5em;
 }
