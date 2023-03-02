@@ -6,7 +6,6 @@
     --link-normal-text-color: #97CAEF;
     --background-color: #FFFFFF
 }
-
 [data-theme="dark"] {
     --link-title-color: #FF968A;
     --title-color: #0FA3B1;
@@ -104,7 +103,7 @@ em {
   font-size: 1rem;
 }
 .site-nav-container {
-  flex: 1 1 auto;
+  flex: 100;
   align-self: center;
 }
 .dark-mode-switch-container {
