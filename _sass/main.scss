@@ -39,9 +39,6 @@ body {
   font-family: 'Playfair Display';
   padding: 10px;
 }
-.navigation-container {
-  flex: 1 1 auto;
-}
 .normal_text {
   color: var(--normal-text-color);
   font-family: 'Helvetica', 'Arial', sans-serif;
@@ -107,7 +104,7 @@ em {
   font-size: 1rem;
 }
 .site-nav-container {
-  flex: 1 0 auto;
+  flex: 1 1 auto;
   align-self: center;
 }
 .dark-mode-switch-container {
