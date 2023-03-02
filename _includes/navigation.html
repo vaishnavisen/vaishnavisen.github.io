@@ -2,7 +2,7 @@
 <script src="https://kit.fontawesome.com/4f0ac268ab.js" crossorigin="anonymous"></script>
 
 <div id = "header">
-  <nav>
+  <nav class = "navigation-container">
     {% for item in site.data.navigation %}
       <a href="{{ item.link }}" class = "navigation">
         {{ item.name }}
@@ -10,7 +10,7 @@
     {% endfor %}
   </nav>
 
-  <div class="navigation" style="justify-content: right; text-align: right;">
+  <div class="dark-mode-switch-container" style="justify-content: right; text-align: right;">
     <a><i class="fa-regular fa-moon theme-switch"></i></a>
   </div>
 
