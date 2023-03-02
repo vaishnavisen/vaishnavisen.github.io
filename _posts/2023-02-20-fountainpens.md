@@ -1,8 +1,0 @@
----
-layout: post
-author: Wikipedia
-title: Fountain Pens 101
----
-A fountain pen is a writing instrument which uses a metal nib to apply a water-based ink to paper. It is distinguished from earlier dip pens by using an internal reservoir to hold ink, eliminating the need to repeatedly dip the pen in an inkwell during use. The pen draws ink from the reservoir through a feed to the nib and deposits the ink on paper via a combination of gravity and capillary action. 
-
-Filling the reservoir with ink may be achieved manually, via the use of an eyedropper or syringe, or via an internal filling mechanism which creates suction (for example, through a piston mechanism) or a vacuum to transfer ink directly through the nib into the reservoir. Some pens employ removable reservoirs in the form of pre-filled ink cartridges.
