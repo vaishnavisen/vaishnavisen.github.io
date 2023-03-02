@@ -103,14 +103,14 @@ em {
   font-size: 1rem;
 }
 .site-nav-container {
-  flex: 95%;
+  flex: 1 0 auto;
   justify-content: center;
 }
 .dark-mode-switch-container {
   flex: 0 0 auto;
   display: flex;
   flex-flow: row;
-  justify-content: end;
+  justify-content: flex-end;
   font-size: 1.5em;
 }
 .theme-switch {
