@@ -2,7 +2,6 @@
 layout: default
 title: Blog Posts
 ---
-{ % include includes.html %}
 <body>
 <ul>
   {% for post in site.posts %}
@@ -13,7 +12,7 @@ title: Blog Posts
       <a class = "link_title" href="{{ post.url }}">{{ post.title }}</a>
       <p class="post_metadata">
         <i class="fa-thin fa-calendar-days"></i>
-        {{ page.date | date: "%B %-d, %Y" }}&nbsp;&nbsp;&nbsp;
+        {{ post.date | date: "%B %-d, %Y" }}&nbsp;&nbsp;&nbsp;
         <i class="fa-thin fa-book-open"></i>
         ~{{ words | divided_by: 180 | append: ' min' }} read
       </p>
