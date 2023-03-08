@@ -10,7 +10,7 @@ title: Blog Posts
     {% endcapture %}
     <li>
       <a class = "link_title" href="{{ post.url }}">{{ post.title }}</a>
-      <div>>
+      <p>
         <i class="fa-thin fa-calendar-days"></i>
         <div class = "post_metadata"> {{ post.date | date: "%B %-d, %Y" }} </div>
         <i class="fa-thin fa-book-open"></i>

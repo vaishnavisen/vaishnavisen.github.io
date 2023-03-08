@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-
+<script src="https://kit.fontawesome.com/4f0ac268ab.js" crossorigin="anonymous"></script>
 {% capture words %}
 {{ content | number_of_words }}
 {% endcapture %}
         
 <div class="article_title">{{ page.title }}</div>
-<div">
+<p>
   <i class="fa-thin fa-calendar-days"></i>
   <div class="post_metadata"> {{ page.date | date: "%B %-d, %Y" }} </div>
   <i class="fa-thin fa-book-open"></i>
   <div class="post_metadata"> ~{{ words | divided_by: 180 | append: ' min' }} read </div>
-</div>
+</p>
 </br>
 <div class = "normal_text">{{ content }}</div>
