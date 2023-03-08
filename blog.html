@@ -5,9 +5,17 @@ title: Blog Posts
 <body>
 <ul>
   {% for post in site.posts %}
+    {% capture words %}
+      {{ post.content | number_of_words }}
+    {% endcapture %}
     <li>
       <a class = "link_title" href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.content | number_of_words }}
+      <p class="post_metadata">
+        <i class="fa-thin fa-calendar-days"></i>
+        {{ page.date | date: "%B %-d, %Y" }}&nbsp;&nbsp;&nbsp;
+        <i class="fa-thin fa-book-open"></i>
+        ~{{ words | divided_by: 180 | append: ' min' }} read
+      </p>
       <div class = "normal_text"> {{ post.excerpt }} </div>
     </li>
   {% endfor %}
