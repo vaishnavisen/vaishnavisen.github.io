@@ -7,11 +7,11 @@ layout: default
 {% endcapture %}
         
 <div class="article_title">{{ page.title }}</div>
-<p class="post_metadata">
+<div">
   <i class="fa-thin fa-calendar-days"></i>
-  {{ page.date | date: "%B %-d, %Y" }}&nbsp;&nbsp;&nbsp;
+  <div class="post_metadata"> {{ page.date | date: "%B %-d, %Y" }} </div>
   <i class="fa-thin fa-book-open"></i>
-  ~{{ words | divided_by: 180 | append: ' min' }} read
- </p>
+  <div class="post_metadata"> ~{{ words | divided_by: 180 | append: ' min' }} read </div>
+</div>
 </br>
 <div class = "normal_text">{{ content }}</div>
