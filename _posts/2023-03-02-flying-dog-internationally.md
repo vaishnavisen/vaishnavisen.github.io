@@ -1,4 +1,5 @@
 ---
+is_post: true
 layout: post
 author: Vaishnavi
 title: Flying your dog internationally as excess baggage

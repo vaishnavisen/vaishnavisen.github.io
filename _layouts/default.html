@@ -11,7 +11,7 @@
   <body>
     {% include navigation.html %}
     <div id="page_margin">
-	{% if page.title != null %}
+	{% if page.title != null and !page.is_post %}
     	  <div class = "title"> {{page.title}} </div>
 	{% endif %}
     	{{ content }}
