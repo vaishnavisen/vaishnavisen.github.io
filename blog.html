@@ -11,9 +11,9 @@ title: Blog Posts
     <li>
       <a class = "link_title" href="{{ post.url }}">{{ post.title }}</a>
       <p class = "post_metadata">
-        <i class="fa-thin fa-calendar-days"></i>
+        <i class="fa-solid fa-calendar-days"></i>
         {{ post.date | date: "%B %-d, %Y" }}
-        <i class="fa-regular fa-book-open"></i>
+        <i class="fa-solid fa-book-open"></i>
         ~{{ words | divided_by: 180 | append: ' min' }} read
       </p>
       <div class = "normal_text"> {{ post.excerpt }} </div>
