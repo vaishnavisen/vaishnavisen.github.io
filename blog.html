@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Blog
+title: Blog Posts
 ---
-<div id = "page_margin">
-<p class="title">Blog Posts</p>
+<p class="title"> {{page.title}} </p>
 <body>
 <ul>
   {% for post in site.posts %}
@@ -13,4 +12,3 @@ title: Blog
     </li>
   {% endfor %}
 </ul>
-</div>
