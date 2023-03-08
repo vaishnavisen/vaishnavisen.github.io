@@ -10,7 +10,11 @@
   </head>
   <body>
     {% include navigation.html %}
-    <div class = "title"> {{page.title}} </div>
-    <div id="page_margin"> {{ content }} </div>
+    <div id="page_margin">
+	{% if page.title != null %}
+    	  <div class = "title"> {{page.title}} </div>
+	{% endif %}
+    	{{ content }}
+    </div>
   </body>
 </html>
