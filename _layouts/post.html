@@ -2,6 +2,9 @@
 layout: default
 ---
 <div class="article_title">{{ page.title }}</div>
-<p class="normal_text"> {{ page.date | date: "%-d %B %Y" }} </p>
+<p class="post_metadata">
+  {{ page.date | date: "%B %-d, %Y" }}&nbsp;&nbsp;&nbsp;
+  ~{{ post.content | number_of_words | divided_by: 180 | append: ' min' }} read
+ </p>
 </br>
 <div class = "normal_text">{{ content }}</div>
