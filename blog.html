@@ -10,12 +10,12 @@ title: Blog Posts
     {% endcapture %}
     <li>
       <a class = "link_title" href="{{ post.url }}">{{ post.title }}</a>
-      <p class="post_metadata">
+      <div class="post_metadata">
         <i class="fa-thin fa-calendar-days"></i>
         {{ post.date | date: "%B %-d, %Y" }}&nbsp;&nbsp;&nbsp;
         <i class="fa-thin fa-book-open"></i>
         ~{{ words | divided_by: 180 | append: ' min' }} read
-      </p>
+      </div>
       <div class = "normal_text"> {{ post.excerpt }} </div>
     </li>
   {% endfor %}
