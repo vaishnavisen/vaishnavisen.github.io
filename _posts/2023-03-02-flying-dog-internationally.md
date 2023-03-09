@@ -66,7 +66,7 @@ At the airport curb, we quickly put the crate back together. My friend loaded it
 The focus then shifted to my documents and we found out that I needed a transit visa to travel through Germany, even if I wasn't going to get out of Frankfurt airport. The expired visa stamping in my passport or the supplemental documentation that proved my US visa was still valid would not be accepted. I wished that I had found out about this rule earlier, but there was nothing we could do then other than to go home, which we did. My friend drove another 7 hours to take us back home. We hit some intense fog on the way back but reached home safe. The day had become memorable for so many reasons.
 
 
-My goal for this post is to document the process and experience from the perspective of a dog owner in hopes that it will help someone in the future. When going through this incredibly stressful experience, I was constantly searching for resources that covered all the aspects of this process at the necessary level of detail. Beyond high level articles published by pet relocation companies, I could not find much. This post is my small attempt to start bridging the gap.  
+When going through this incredibly stressful experience, I was constantly searching for resources that covered all the aspects of this process at the required level of detail. But beyond high level articles published by pet relocation companies, I could not find much. My goal for this post was to document the process and experience from the perspective of a dog owner in hopes that it will help someone in the future.  
 
 
 
