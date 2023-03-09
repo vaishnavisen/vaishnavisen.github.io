@@ -2,7 +2,6 @@
 is_post: true
 layout: post
 author: Vaishnavi
-<<<<<<< HEAD
 date: 2023-03-02
 title: Flying your dog from USA to India as excess baggage
 ---
@@ -28,6 +27,7 @@ During international travel, it is common to have multiple airlines involved. Bu
 ii. Weather
 
 A couple of days after I made the flight reservation, I learnt about 'weather embargoes'. Airlines have temperature restrictions for flying pets to ensure their safety during extreme weather conditions. If the temperature goes above or below safe levels, the airline can refuse to fly the pet. This is to avoid exposing the pet to harsh temperatures while moving him or her between the terminal and the aircraft. Breeds tolerant to cold weather might be allowed to fly with an acclimation certificate from a US Department of Agriculture (USDA) approved vet. But in dangerously cold conditions, the airlines can still refuse to fly them. And weather embargoes apply to both departure and destination locations.
+
 https://www.avma.org/resources-tools/avma-policies/acclimation-certificatesstatements
 https://vsapps.aphis.usda.gov/vsps/public/VetSearch.do
 Flying from the Windy city during January sounded like the perfect recipe for a cold weather embargo. So I decided to go down south and fly from Atlanta, where the temperature was forecasted to be in the 50s on the day of our flight.  
