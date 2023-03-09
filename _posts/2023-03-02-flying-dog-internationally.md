@@ -67,7 +67,7 @@ The focus then shifted to my documents and we found out that I needed a transit 
 
 
 
-When going through this incredibly stressful experience, I was constantly searching for resources that covered all aspects of this process at the required level of detail. But beyond high level articles published by pet relocation companies, I could not find much. The intention behind this post is to bridge the gap and document the process and experience from the perspective of a dog owner in hopes that it will help someone in the future.  
+When going through this incredibly stressful experience, I was constantly searching for resources that covered all aspects of this process at the required level of detail. But beyond high level articles published by pet relocation companies, I could not find much. The intention behind this post is to document the process and experience from the perspective of a dog owner in hopes that it will help someone in the future.  
 
 
 
