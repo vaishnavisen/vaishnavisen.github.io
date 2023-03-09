@@ -51,7 +51,7 @@ My dog hates the crate. Period. I knew he was never going to completely like his
 
 The crate came with a couple of 'Live Animals' stickers and a form to indicate when the animal was last fed. I stuck the 'Live Animal' stickers on the front and sides of the crate. I referred to a couple of videos on YouTube for guidance. There were also two small plastic bowls that came with the crate - one for food and one for water. I thought they were too small for the ~24 hour journey and bought [bigger ones (2.5 cups)](https://www.petsmart.com/dog/bowls-and-feeders/top-paw-crate-crock-feeding-bowl-51192.html?cgid=100402&fmethod=Browse). I attached them to the crate door and the design was perfect for the task in hand. I lined the bottom of the crate with pee pads, so that the crate would remain dry in case there were potty accidents. Finally, I put a blanket on top, one that I had been using the past few days, hoping that my scent would comfort my dog in the dark and noisy cargo hold.
 
-This document has some very detailed information about how to prepare the crate for the flight.
+[This document](https://www.iata.org/contentassets/b0016da92c86449f850fe9560827bbea/pet-container-requirements.pdf) has some very detailed information about how to prepare the crate for the flight.
 
 #### ii. Packing food for layover
 
