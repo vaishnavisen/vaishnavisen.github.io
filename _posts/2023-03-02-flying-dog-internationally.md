@@ -7,7 +7,7 @@ date: 2023-03-02
 title: Flying your dog from USA to India as excess baggage
 ---
 
-A couple of months ago, I found out I had to move from the USA to India temporarily. I had no idea how long 'temporary' was. A dog owner's nightmare! After much thought, I decided to take my 65 pound golden retriever with me to India in an airplane as excess baggage. I spent the following months preparing for our travel and making sure I had everything to ensure a smooth journey for my dog. On the day of our flight, my dog's documents were checked by the airlines' employees and he was ready to be boarded. Great! They then looked at my passport and asked me for a transit visa that I didn't have. Not great! Unfortunately, we could not fly that day. So, while I can't tell you what happens after checking in your dog in an international flight, I can definitely take you through what happened until we got here. 
+A couple of months ago, I found out I had to move from the USA to India temporarily. I had no idea how long 'temporary' was. A dog owner's nightmare! After much thought, I decided to take my 65 pound golden retriever with me to India in an airplane as excess baggage. I spent the following months preparing for our travel and making sure I had everything to ensure a smooth journey for my dog. On the day of our flight, my dog's documents were checked by the airlines' employees and he was ready to be boarded. Great! They then looked at my passport and asked me for a transit visa that I didn't have. Not great! Unfortunately, we could not fly that day. So, while I can't tell you what happens after checking in your dog, I can definitely take you through how we got there. 
 
 I. Manifest Cargo vs Excess Baggage
 
@@ -19,11 +19,11 @@ Each airline has its own rules and restrictions regarding dog breed, dog weight,
 
 II. Choosing the right departure location
 
-I live in Cincinnati, but I chose not to fly from the closest airport which is the Cincinnati/Northern Kentucky Airport (CVG). Two big reasons for this: 
+I live in Cincinnati, but I could not fly from the closest airport which is the Cincinnati/Northern Kentucky Airport (CVG). Two big reasons for this: 
 
 i. To avoid multiple airline and codeshare flights
 
-During international travel, it is common to have multiple airlines involved. But pet travel policies are specific to the airlines operating the flight and it is the pet owner's responsibility to confirm that all airlines involved are ready to fly the pet. Every flight option from CVG involved multiple airlines. And some of them did not even fly pets anymore. A six hour drive to Chicago sounded less stressful, and I made my reservation to fly from the Chicago airport. 
+During international travel, it is common to have multiple airlines involved. But pet travel policies are specific to the airlines operating the flight and it is the pet owner's responsibility to confirm that all airlines involved are ready to fly the pet. Every flight option from CVG involved multiple airlines. And some of them did not even fly pets anymore. A six hour drive to the bigger airport in Chicago opened more possibilities, and so I made my reservation to fly from the Chicago airport. 
 
 ii. Weather
 
@@ -37,7 +37,7 @@ II. CRATE
 
 i. Figuring out the right crate size
 
-After quickly realizing that the foldable metal crate I had lying at home, unused in a long time, cannot be used for flying, I looked for a plastic crate specifically built for air travel. I used the standard formula https://www.iata.org/contentassets/b0016da92c86449f850fe9560827bbea/pet-container-requirements.pdf to calculate the size for my dog. My golden retriever weighs around 65 pounds, but he is longer than most dogs that weigh the same. For his dimensions, the 48 inch crate https://www.petmate.com/petmate-sky-kennel/product/PM09 was the suitable choice. The monstrosity of the crate and the logistic challenges it was going to create were intimidating. But as someone who is claustrophobic when flying on airplanes, I knew there was no such thing as 'too much space' during a ~24 hour journey in the dark cargo hold. I bought the giant 48 inch crate as early as I could.    
+After quickly realizing that the foldable metal crate I had lying at home, unused in a long time, cannot be used for flying, I looked for a plastic crate specifically built for air travel. I used the standard formula https://www.iata.org/contentassets/b0016da92c86449f850fe9560827bbea/pet-container-requirements.pdf to calculate the size for my dog. My golden retriever weighs around 65 pounds, but he is longer than most dogs that weigh the same. For his dimensions, the 48 inch crate https://www.petmate.com/petmate-sky-kennel/product/PM09 was the suitable choice. The monstrosity of the crate and the logistic challenges it was going to create were intimidating. But as someone who is claustrophobic when flying in airplanes, I knew there was no such thing as 'too much space' during a ~24 hour journey in the dark cargo hold. I bought the giant 48 inch crate as early as I could.    
 
 ii. Getting your dog used to the crate
 
@@ -61,11 +61,14 @@ I filled a ziplock bag with a meal worth of dry food and attached it to the top 
 
 iii. Driving to the airport and Checking in
 
-My extremely kind friend drove us to the Atlanta airport on the day of our flight. The 48 inch crate had to be disassembled to fit in a Volvo XC90 along with my luggage. We did not hit any major traffic and reached Atlanta on time. We made a stop near the airport for a potty break for my dog before the flight. 
+My extremely kind friend drove us to the Atlanta airport on the day of our flight. The 48 inch crate had to be disassembled to fit in a Volvo XC90 along with my luggage. We did not hit any major traffic on the way and reached Atlanta on time. We made a stop near the airport for a potty break for my dog before the flight. 
 
 At the airport curb, we quickly put the crate back together. My friend loaded it on an airport cart - the crate was unproportionally large for the cart, but it somehow worked. Together, we took the crate, my luggage and my dog who was on leash to the Lufthansa economy check in counter. My dog was totally enjoying this new experience, blissfully unaware of what I had planned for his next 24 hours. The airline agent asked for his NOC certificate, rabies vaccination certificate and acclimation certificate. After verifying the documents, the agents quickly checked my dog's crate. They confirmed that everything looked good and affixed more stickers on the crate.  
 
-The focus then shifted to my documents and when we found out that I needed a transit visa to travel through Germany, even if I wasn't going to get out of Frankfurt airport. The expired visa stamping in my passport or the supplemental documentation that proved my US visa was still valid would not be accepted. I wish I had known this about it earlier, but there was nothing we could do then other than to go home, which we did. My friend drove another 7 hours to take us back home. We hit some intense fog on the way back but reached home safe. The day had become memorable for so many reasons.
+The focus then shifted to my documents and we found out that I needed a transit visa to travel through Germany, even if I wasn't going to get out of Frankfurt airport. The expired visa stamping in my passport or the supplemental documentation that proved my US visa was still valid would not be accepted. I wished that I had found out about this rule earlier, but there was nothing we could do then other than to go home, which we did. My friend drove another 7 hours to take us back home. We hit some intense fog on the way back but reached home safe. The day had become memorable for so many reasons.
+
+
+My goal for this post is to document the process and experience from the perspective of a dog owner in hopes that it will help someone in the future. When going through this incredibly stressful experience, I was constantly searching for resources that covered all the aspects of this process at the necessary level of detail. Beyond high level articles published by pet relocation companies, I could not find much. This post is my small attempt to start bridging the gap.  
 
 
 
