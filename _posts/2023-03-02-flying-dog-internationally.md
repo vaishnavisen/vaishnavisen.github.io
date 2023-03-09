@@ -26,9 +26,8 @@ During international travel, it is common to have multiple airlines involved. Bu
 
 ii. Weather
 
-A couple of days after I made the flight reservation, I learnt about 'weather embargoes'. Airlines have temperature restrictions for flying pets to ensure their safety during extreme weather conditions. If the temperature goes above or below safe levels, the airline can refuse to fly the pet. This is to avoid exposing the pet to harsh temperatures while moving him or her between the terminal and the aircraft. Breeds tolerant to cold weather might be allowed to fly with an acclimation certificate from a US Department of Agriculture (USDA) approved vet. But in dangerously cold conditions, the airlines can still refuse to fly them. And weather embargoes apply to both departure and destination locations.
-https://www.avma.org/resources-tools/avma-policies/acclimation-certificatesstatements
-https://vsapps.aphis.usda.gov/vsps/public/VetSearch.do
+A couple of days after I made the flight reservation, I learnt about 'weather embargoes'. Airlines have temperature restrictions for flying pets to ensure their safety during extreme weather conditions. If the temperature goes above or below safe levels, the airline can refuse to fly the pet. This is to avoid exposing the pet to harsh temperatures while moving him or her between the terminal and the aircraft. Breeds tolerant to cold weather might be allowed to fly with an [acclimation certificate](https://www.avma.org/resources-tools/avma-policies/acclimation-certificatesstatements) from a [US Department of Agriculture (USDA) approved vet](https://vsapps.aphis.usda.gov/vsps/public/VetSearch.do). But in dangerously cold conditions, the airlines can still refuse to fly them for obvious reasons. And weather embargoes apply to both departure and destination locations.
+
 Flying from the Windy city during January sounded like the perfect recipe for a cold weather embargo. So I decided to go down south and fly from Atlanta, where the temperature was forecasted to be in the 50s on the day of our flight.  
 
  
@@ -36,7 +35,7 @@ II. CRATE
 
 i. Figuring out the right crate size
 
-After quickly realizing that the foldable metal crate I had lying at home, unused in a long time, cannot be used for flying, I looked for a plastic crate specifically built for air travel. I used the standard formula https://www.iata.org/contentassets/b0016da92c86449f850fe9560827bbea/pet-container-requirements.pdf to calculate the size for my dog. My golden retriever weighs around 65 pounds, but he is longer than most dogs that weigh the same. For his dimensions, the 48 inch crate https://www.petmate.com/petmate-sky-kennel/product/PM09 was the suitable choice. The monstrosity of the crate and the logistic challenges it was going to create were intimidating. But as someone who is claustrophobic when flying in airplanes, I knew there was no such thing as 'too much space' during a ~24 hour journey in the dark cargo hold. I bought the giant 48 inch crate as early as I could.    
+After quickly realizing that the foldable metal crate I had lying at home, unused in a long time, cannot be used for flying, I looked for a plastic crate specifically built for air travel. I used the [standard formula](https://www.iata.org/contentassets/b0016da92c86449f850fe9560827bbea/pet-container-requirements.pdf) to calculate the size for my dog. My golden retriever weighs around 65 pounds, but he is longer than most dogs that weigh the same. For his dimensions, the [48 inch crate](https://www.petmate.com/petmate-sky-kennel/product/PM09) was the suitable choice. The monstrosity of the crate and the logistic challenges it was going to create were intimidating. But as someone who is claustrophobic when flying in airplanes, I knew there was no such thing as 'too much space' during a ~24 hour journey in the dark cargo hold. I bought the giant 48 inch crate as early as I could.    
 
 ii. Getting your dog used to the crate
 
@@ -50,7 +49,7 @@ V. DAY OF FLIGHT
 
 i. Preparing the crate for the flight 
 
-The crate came with a couple of 'Live Animals' stickers and a form to indicate when the animal was last fed. I stuck the 'Live Animal' stickers on the front and sides of the crate. I referred to a couple of videos on YouTube for guidance. There were also two small plastic bowls that came with the crate - one for food and one for water. I thought they were too small for the ~24 hour journey and bought bigger ones https://www.petsmart.com/dog/bowls-and-feeders/top-paw-crate-crock-feeding-bowl-51192.html?cgid=100402&fmethod=Browse (2.5 cups). I attached them to the crate door and the design was perfect for the task in hand. I lined the bottom of the crate with pee pads, so that the crate would remain dry in case there were potty accidents. Finally, I put a blanket on top, one that I had been using the past few days, hoping that my scent would comfort my dog in the dark and noisy cargo hold.
+The crate came with a couple of 'Live Animals' stickers and a form to indicate when the animal was last fed. I stuck the 'Live Animal' stickers on the front and sides of the crate. I referred to a couple of videos on YouTube for guidance. There were also two small plastic bowls that came with the crate - one for food and one for water. I thought they were too small for the ~24 hour journey and bought [bigger ones (2.5 cups)](https://www.petsmart.com/dog/bowls-and-feeders/top-paw-crate-crock-feeding-bowl-51192.html?cgid=100402&fmethod=Browse). I attached them to the crate door and the design was perfect for the task in hand. I lined the bottom of the crate with pee pads, so that the crate would remain dry in case there were potty accidents. Finally, I put a blanket on top, one that I had been using the past few days, hoping that my scent would comfort my dog in the dark and noisy cargo hold.
 
 This document has some very detailed information about how to prepare the crate for the flight.
 
