@@ -20,7 +20,7 @@ Each airline has its own rules and restrictions regarding dog breed, dog weight,
 
 I live in Cincinnati, but I could not fly from the closest airport which is the Cincinnati/Northern Kentucky Airport (CVG). Two big reasons for this: 
 
-#### i. To avoid multiple airline and codeshare flights
+#### i. Multiple airline flights and codeshare flights are complicated for pet travel
 
 During international travel, it is common to have multiple airlines involved. But pet travel policies are specific to the airlines operating the flight and it is the pet owner's responsibility to confirm that all airlines involved are ready to fly the pet. Every flight option from CVG involved multiple airlines. And some of them did not even fly pets anymore. A six hour drive to the bigger airport in Chicago opened more possibilities, and so I made my reservation to fly from the Chicago airport. 
 
@@ -63,10 +63,9 @@ My extremely kind friend drove us to the Atlanta airport on the day of our fligh
 
 At the airport curb, we quickly put the crate back together. My friend loaded it on an airport cart - the crate was unproportionally large for the cart, but it somehow worked. Together, we took the crate, my luggage and my dog who was on leash to the Lufthansa economy check in counter. My dog was totally enjoying this new experience, blissfully unaware of what I had planned for his next 24 hours. The airline agent asked for his NOC certificate, rabies vaccination certificate and acclimation certificate. After verifying the documents, the agents quickly checked my dog's crate. They confirmed that everything looked good and affixed more stickers on the crate.  
 
-The focus then shifted to my documents and we found out that I needed a transit visa to travel through Germany, even if I wasn't going to get out of Frankfurt airport. The expired visa stamping in my passport or the supplemental documentation that proved my US visa was still valid would not be accepted. I wished that I had found out about this rule earlier, but there was nothing we could do then other than to go home, which we did. My friend drove another 7 hours to take us back home. We hit some intense fog on the way back but reached home safe. The day had become memorable for so many reasons.
+The focus then shifted to my documents and we found out that I needed a transit visa to travel through Germany, even if I stayed inside the Frankfurt airport. The expired visa stamping in my passport or the supplemental documentation that proved my US visa was still valid were not accepted. I stood there wishing I had found out about this rule earlier, but there was nothing we could do then other than to go home, which we did. My friend drove another 7 hours to take us back home. We hit some intense fog on the way back but reached home safe. The day became memorable for so many reasons.
 
-
-
+</br>
 When going through this incredibly stressful experience, I was constantly searching for resources that covered all aspects of this process at the required level of detail. But beyond high level articles published by pet relocation companies, I could not find much. The intention behind this post is to document the process and experience from the perspective of a dog owner in hopes that it will help someone in the future.  
 
 
