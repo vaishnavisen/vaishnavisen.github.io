@@ -2,7 +2,6 @@
 is_post: true
 layout: post
 author: Vaishnavi
-<<<<<<< HEAD
 date: 2023-03-02
 title: Flying your dog from USA to India as excess baggage
 ---
