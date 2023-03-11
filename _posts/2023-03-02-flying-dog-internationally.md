@@ -44,41 +44,38 @@ My dog hates the crate. Period. I knew he was never going to completely like his
 
 ### IV. DOCUMENTS REQUIRED
 
-There are [country specific entry requirements](https://www.aphis.usda.gov/aphis/pet-travel/by-country/pettravel-india) for exporting pets from the USA. Documents should be presented to the quarantine officer in customs after landing. I hired the services of an [Indian pet relocator](http://globalcargo.co.in/contact.html) to get the necessary paperwork from Animal Quarantine and Certification Services(AQCS) in India. 
+There are [country specific entry requirements](https://www.aphis.usda.gov/aphis/pet-travel/by-country/pettravel-india) for exporting pets from the USA. Documents should be presented to the airlines staffduring check-in and the quarantine officer in customs after landing. 
 
-In addition to my passport/visa documents and the airline ticket, we needed:
+i. USDA endorsed Health Certificate
 
-i. USDA Health Certificate
-
-I reached out to my USDA accredited vet's office and they were ready to help. I made an appointment during which the vet confirmed my dog was fit to travel and verified he was microchipped. He then completed the [Health Certificate form for India](https://www.aphis.usda.gov/pet-travel/health-certificates/non-eu/india-dogs.pdf) and submitted it digitally for USDA endorsement. It took ~4 days to receive the endorsed certicate online (my vet made sure to follow up with USDA over the phone). The certificate was valid for 30 days. I did hear that some USDA offices provide only a 10 day validity.
+I reached out to my USDA accredited vet's office and they were ready to help get this one. I made an appointment with the vet, and he confirmed my dog was fit to travel. He completed the [Health Certificate form for India](https://www.aphis.usda.gov/pet-travel/health-certificates/non-eu/india-dogs.pdf) and submitted it digitally to the USDA for endorsement. It took ~4 days to receive the endorsed certicate online (my vet followed up with the USDA office over the phone). The certificate was valid for 30 days. I did hear that some USDA offices provide only a 10 day validity.
   
 ii. Vaccination Record
 
-This is a certificate from the vet confirming my dog been given all required vaccines, i.e. [Rabies](https://www.cdc.gov/rabies/pdf/nasphv_form51_1.pdf) and DAPP (Distemper, Adenovirus, Parainfluenza, Parvo) along with the dates they were administered.
+This is a certificate from the vet confirming my dog had been given all required vaccines, i.e. [Rabies](https://www.cdc.gov/rabies/pdf/nasphv_form51_1.pdf) and DAPP (Distemper, Adenovirus, Parainfluenza, Parvo) along with the dates they were administered.
 
 iii. No Objection certificate
 
-The pet relocator needed the following documents from me at least 7 days before the flying date:
-USDA Health certificate, 
-vaccination record,
- my passport and visa documents, 
-ticket to India, 
-a letter from my employer confirming the reason for my move, 
-a photo of my dog, 
-my Indian address 
-to the pet relocator. 
+I hired an [Indian pet relocator](http://globalcargo.co.in/contact.html) to help get this certificate from the Animal Quarantine and Certification Services(AQCS) in India. They needed the following documents at least 7 days before the flight:
+1. USDA Health certificate 
+2. Vaccination record
+3. My passport and visa documents 
+4. Ticket to India 
+5. A letter from my employer confirming the reason for my move 
+6. A photo of my dog
+7. My address in India  
 
 They also asked me to confirm that:
 1. I had been in the USA for atleast the last 2 years and any short visits to India were not more than a total of 180 days. 
 2. I won't return to the USA with my dog for at least 3-4 months
 
-They verified all the documents and submitted them to the AQCS office, who then quickly provided the No Objection Certificate. I emailed copies to the airline offices at the origin and destination airports.
+They verified all the documents and submitted them to the AQCS office, who then quickly provided the No Objection Certificate. I emailed copies to the airline offices at the origin and destination airports before the flight.
 
-*Acclimation certificate:*
+Acclimation certificate:
 
-*Our layover was at Frankfurt, which is cold in January. So I requested my vet to provide an [acclimation certificate](https://www.avma.org/resources-tools/avma-policies/acclimation-certificatesstatements)that I could submit to the airlines.*
+Our layover was at Frankfurt, which is cold in January. So I requested my vet to provide an [acclimation certificate](https://www.avma.org/resources-tools/avma-policies/acclimation-certificatesstatements).
 
-Due to time sensitive nature of the process, there were a couple of tense moments while obtaining documents. Hiring a pet relocator was definitely worth it.   
+Due to time sensitive nature of the process, there were a couple of tense moments while getting the documents ready. Hiring a pet relocator was definitely worth it.   
 
 
 ### V. DAY OF FLIGHT
