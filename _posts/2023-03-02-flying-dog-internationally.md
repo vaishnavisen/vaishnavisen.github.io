@@ -6,7 +6,7 @@ date: 2023-03-02
 title: My experience trying to fly my dog from the USA to India
 ---
 
-A couple of months ago, I found out I had to move from the USA to India temporarily. I had no idea how long 'temporary' was. A dog owner's nightmare! After much thought, I decided to take my 65 pound golden retriever with me to India in an airplane as excess baggage. I spent the following months preparing for our travel and making sure I had everything to ensure a smooth journey for my dog. On the day of our flight, my dog's documents were checked by the airlines' employees and he was ready to be boarded. Great! They then looked at my passport and asked me for a transit visa that I didn't have. Not great! Unfortunately, we could not fly that day. But I was so close, close enough to make me believe that sharing my experience in this post is valuable.  
+A couple of months ago, I found out I had to move from the USA to India temporarily. I had no idea how long 'temporary' was. A dog owner's nightmare! After much thought, I decided to take my 65 pound golden retriever with me to India in an airplane as excess baggage. I spent the following months preparing for our travel and making sure I had everything to ensure a smooth journey for my dog. On the day of our flight, my dog's documents were checked by the airlines' employees and he was ready to be boarded. Great! They then looked at my passport and asked me for a transit visa that I didn't have. Not great! Unfortunately, we could not fly that day. But I was so close, close enough for me believe that sharing my experience here in this post is valuable.  
 
 ### Manifest Cargo vs Excess Baggage
 
@@ -33,15 +33,15 @@ Flying from the Windy city during January sounded like the perfect recipe for a 
 
 There are [country specific entry requirements](https://www.aphis.usda.gov/aphis/pet-travel/by-country/pettravel-india) for exporting pets from the USA. Documents should be presented to the airlines staff during check-in and the quarantine officer in customs after landing.
 
-_USDA endorsed Health Certificate
+_ USDA endorsed Health Certificate
 
 I reached out to my USDA accredited vet's office and they were ready to help get this one. I made an appointment with the vet, he confirmed my dog was fit to travel. He completed the [Health Certificate form for India](https://www.aphis.usda.gov/pet-travel/health-certificates/non-eu/india-dogs.pdf) and submitted it digitally to the USDA for endorsement. It took ~4 days to receive the endorsed certicate online (my vet followed up with the USDA office over the phone) and it was valid for 30 days. I did hear that some USDA offices provide only a 10 day validity.
   
-_Vaccination Record
+_ Vaccination Record
 
 This is a certificate from the vet confirming my dog had been given all required vaccines, i.e. [Rabies](https://www.cdc.gov/rabies/pdf/nasphv_form51_1.pdf) and DAPP (Distemper, Adenovirus, Parainfluenza, Parvo) along with the dates they were administered.
 
-_No Objection Certificate (NOC)
+_ No Objection Certificate (NOC)
 
 I hired an [Indian pet relocator](http://globalcargo.co.in/contact.html) to help get this one from the Animal Quarantine and Certification Services(AQCS) in India. They needed the following documents at least 7 days before the flight:
 1. USDA Health certificate 
@@ -89,7 +89,7 @@ My extremely kind friend drove us to the Atlanta airport on the day of our fligh
 At the airport curb, we quickly put the crate back together. My friend loaded it on an airport cart - the crate was unproportionally large for the cart, but it somehow worked. Together, we took the crate, my luggage and my dog who was on leash to the Lufthansa economy check in counter. My dog was totally enjoying this new experience - a huge room filled with people, blissfully unaware of what I had planned for his next 24 hours. The airline agents checked his NOC certificate, rabies vaccination certificate, acclimation certificate and then the crate. They confirmed that everything looked good and affixed more stickers on the crate. My friend and I looked at each other relieved.  
 
 Focus then shifted to my documents and we found out that I needed a transit visa to travel through Germany, even if I was only going to be inside the airport during the layover. The expired visa stamping in my passport or the supplemental documentation that proved my US visa was still valid were not enough. There was nothing we could do, I had to go back to Cincinnati and make new plans. I felt crushed, my friend was heartbroken for me. She drove another 7 hours to take us back home. We hit some intense fog on the way back but reached home safe. The day became memorable for so many reasons.
-
+<p style="text-align: center;">-------------------</p>
 <br/>
 While preparing for my dog's travel, I was constantly searching for resources that covered all aspects of the process at the required level of detail. But beyond high level articles published by pet relocation companies, I could not find much. Hence this post, to document the process and experience from the perspective of a dog owner in hopes that it will help someone in the future.  
 
