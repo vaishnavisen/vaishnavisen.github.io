@@ -27,38 +27,38 @@ During international travel, it is common to have multiple airlines involved. Bu
 
 A couple of days after I made the flight reservation, I learnt about 'weather embargoes'. Airlines have temperature restrictions for flying pets to ensure their safety during extreme weather conditions. If the temperature goes above or below safe levels, the airline can refuse to fly the pet. This is to avoid exposing the pet to harsh temperatures while moving him or her between the terminal and the aircraft. Breeds tolerant to cold weather might be allowed to fly with an [acclimation certificate](https://www.avma.org/resources-tools/avma-policies/acclimation-certificatesstatements) from a [US Department of Agriculture (USDA) accredited vet](https://vsapps.aphis.usda.gov/vsps/public/VetSearch.do). But in dangerously cold conditions, the airlines can still refuse to fly them for obvious reasons. And weather embargoes apply to both departure and destination locations.
 
-Flying from the Windy city during January sounded like the perfect recipe for a cold weather embargo. So I decided to go down south and fly from Atlanta, where the temperature was forecasted to be in the 50s on the day of our flight. Thankfully, a Lufthansa flight was available from the Atlanta airport on the same date. Lufthansa customer service made the change in my reservation for a fee.
+Flying from the Windy city during January sounded like the perfect recipe for a cold weather embargo. So I decided to go down south and fly from Atlanta, where the temperature was forecasted to be in the 50s on the day of our flight. Thankfully, a Lufthansa flight was available from the Atlanta airport on the same date. Lufthansa customer service changed my reservation for a fee.
 
 ### Documents Required
 
 There are [country specific entry requirements](https://www.aphis.usda.gov/aphis/pet-travel/by-country/pettravel-india) for exporting pets from the USA. Documents should be presented to the airlines staff during check-in and the quarantine officer in customs after landing.
 
-* USDA endorsed Health Certificate
+1. USDA endorsed Health Certificate
 
 I reached out to my USDA accredited vet's office and they were ready to help get this one. I made an appointment with the vet, he confirmed my dog was fit to travel. He completed the [Health Certificate form for India](https://www.aphis.usda.gov/pet-travel/health-certificates/non-eu/india-dogs.pdf) and submitted it digitally to the USDA for endorsement. It took ~4 days to receive the endorsed certicate online (my vet followed up with the USDA office over the phone) and it was valid for 30 days. I did hear that some USDA offices provide only a 10 day validity.
   
-* Vaccination Record
+2. Vaccination Record
 
 This is a certificate from the vet confirming my dog had been given all required vaccines, i.e. [Rabies](https://www.cdc.gov/rabies/pdf/nasphv_form51_1.pdf) and DAPP (Distemper, Adenovirus, Parainfluenza, Parvo) along with the dates they were administered.
 
-* No Objection Certificate (NOC)
+3. No Objection Certificate (NOC)
 
 I hired an [Indian pet relocator](http://globalcargo.co.in/contact.html) to help get this one from the Animal Quarantine and Certification Services(AQCS) in India. They needed the following documents at least 7 days before the flight:
-1. USDA Health certificate 
-2. Vaccination record
-3. My passport and visa documents
-4. Ticket to India
-5. A letter from my employer confirming the reason for my move 
-6. A photo of my dog
-7. My address in India  
+- USDA Health certificate 
+- Vaccination record
+- My passport and visa documents
+- Ticket to India
+- A letter from my employer confirming the reason for my move 
+- A photo of my dog
+- My address in India  
 
 They also asked me to confirm that:
-1. I had been in the USA for atleast the last 2 years and any short visits to India were not more than a total of 180 days. 
-2. I won't return to the USA with my dog for at least 3-4 months
+- I had been in the USA for atleast the last 2 years and any short visits to India were not more than a total of 180 days. 
+- I won't return to the USA with my dog for at least 3-4 months
 
 They verified all the documents and submitted them to the AQCS office, who then quickly provided the No Objection Certificate. I emailed copies to the airline offices at the origin and destination airports before the flight.
 
-* Acclimation certificate:
+4. Acclimation certificate:
 
 Our layover was at Frankfurt, which is cold in January. So I requested my vet to provide an [acclimation certificate](https://www.avma.org/resources-tools/avma-policies/acclimation-certificatesstatements).
 
