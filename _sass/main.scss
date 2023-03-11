@@ -36,6 +36,7 @@ body {
   color: var(--navigation-color);
   font-family: 'Playfair Display';
   padding: 10px;
+  
 }
 .normal_text {
   color: var(--normal-text-color);
@@ -57,8 +58,6 @@ body {
 #header {
   margin-top: 50px;
   margin-bottom: 50px;
-  margin-left: 20%;
-  margin-right: 20%;
   display: flex;
 }
 center {
