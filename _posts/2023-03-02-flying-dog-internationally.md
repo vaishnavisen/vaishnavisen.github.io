@@ -97,7 +97,7 @@ Focus then shifted to my documents and we found out that I needed a transit visa
 
 While preparing for my dog's travel, I was constantly searching for resources that covered all aspects of the process at the required level of detail. But beyond high level articles published by pet relocation companies, I could not find much. Hence this post, to document the process and experience from the perspective of a dog owner in hopes that it will help someone in the future.  
 
-Finally, a huge shoutout to my family and my Cincinnati friends - Ben, Chris, Bryson, Katie, Bryson Jr., Dottie, Gene, Justin, Stephanie, Kaytie, Spencer. Thank you for standing by me throughout this stressful experience. My first ever blog post is dedicated to you guys!  
+Finally, a huge shoutout to my family and my Cincinnati friends - Ben, Chris, Bryson, Katie, Bryson Jr., Dottie, Gene, Justin, Stephanie, Kaytie, Spencer. Thank you for standing by me throughout this difficult experience. My first ever blog post is dedicated to you guys!  
 
 
 
