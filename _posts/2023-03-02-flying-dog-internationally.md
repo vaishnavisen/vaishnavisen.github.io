@@ -49,7 +49,8 @@ There are [country specific entry requirements](https://www.aphis.usda.gov/aphis
 In addition to my passport/visa documents and the airline ticket, we needed:
 
 i. USDA Health Certificate
-I made an appointment with my dog's vet (USDA accredited) for a health check up. He also confirmed the presence of microchip and its serial number. He then completed the [Health Certificate form for India](https://www.aphis.usda.gov/pet-travel/health-certificates/non-eu/india-dogs.pdf) and submitted it digitally for USDA endorsement. It took ~4 days to receive the endorsed certicate online (my vet made sure to follow up with USDA over the phone). The certificate was valid for 30 days. I did hear that some USDA offices provide only a 10 day validity.
+
+I reached out to my USDA accredited vet's office and they were ready to help. I made an appointment during which the vet confirmed my dog was fit to travel and verified he was microchipped. He then completed the [Health Certificate form for India](https://www.aphis.usda.gov/pet-travel/health-certificates/non-eu/india-dogs.pdf) and submitted it digitally for USDA endorsement. It took ~4 days to receive the endorsed certicate online (my vet made sure to follow up with USDA over the phone). The certificate was valid for 30 days. I did hear that some USDA offices provide only a 10 day validity.
   
 ii. Vaccination Record
 
@@ -71,11 +72,11 @@ They also asked me to confirm that:
 1. I had been in the USA for atleast the last 2 years and any short visits to India were not more than a total of 180 days. 
 2. I won't return to the USA with my dog for at least 3-4 months
 
-They verified all the documents and submitted them to the AQCS office, who then very quickly provided the No Objection Certificate.
+They verified all the documents and submitted them to the AQCS office, who then quickly provided the No Objection Certificate. I emailed copies to the airline offices at the origin and destination airports.
 
-*Acclimation certificate:
+*Acclimation certificate:*
 
-Our layover was at Frankfurt, which is cold in January. So I requested my vet to provide an [acclimation certificate](https://www.avma.org/resources-tools/avma-policies/acclimation-certificatesstatements)that I could submit to the airlines.*
+*Our layover was at Frankfurt, which is cold in January. So I requested my vet to provide an [acclimation certificate](https://www.avma.org/resources-tools/avma-policies/acclimation-certificatesstatements)that I could submit to the airlines.*
 
 Due to time sensitive nature of the process, there were a couple of tense moments while obtaining documents. Hiring a pet relocator was definitely worth it.   
 
