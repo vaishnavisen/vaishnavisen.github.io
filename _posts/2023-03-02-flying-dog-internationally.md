@@ -6,7 +6,7 @@ date: 2023-03-02
 title: My experience trying to fly my dog from the USA to India
 ---
 
-A couple of months ago, I found out I had to move from the USA to India temporarily. I had no idea how long 'temporary' was. A dog owner's nightmare! After much thought, I decided to take my 65 pound golden retriever with me to India in an airplane as excess baggage. I spent the following months preparing for our travel and making sure I had everything to ensure a smooth journey for my dog. On the day of our flight, my dog's documents were checked by the airlines' employees and he was ready to be boarded. Great! They then looked at my passport and asked me for a transit visa that I didn't have. Not great! Unfortunately, we could not fly that day. But I was so close, close enough for me believe that sharing my experience here in this post is valuable.  
+A couple of months ago, I found out I had to move from the USA to India temporarily. I had no idea how long 'temporary' was. A dog owner's nightmare! After much thought, I decided to take my 65 pound golden retriever with me to India in an airplane as excess baggage. I spent the following months preparing for our travel and making sure I had everything to ensure a smooth journey for my dog. On the day of our flight, my dog's documents were checked by the airlines' employees and he was ready to be boarded. Great! They then looked at my passport and asked me for a transit visa that I didn't have. Not great! Unfortunately, we could not fly that day. But I was so close, close enough for me to believe that sharing my experience here is valuable.  
 
 ### Manifest Cargo vs Excess Baggage
 
