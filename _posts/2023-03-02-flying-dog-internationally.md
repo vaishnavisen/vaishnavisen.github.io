@@ -40,7 +40,7 @@ After quickly realizing that the foldable metal crate I already had, unused in a
 My dog hates the crate. Period. I knew he was never going to completely like his new plastic crate. But I had a couple of months to at least make him feel not-uncomfortable in it. I started feeding all his meals inside the crate and dropped a lot of treats. The usual crate training stuff. 
 
 
-### DOCUMENTS REQUIRED
+### Documents Required
 
 There are [country specific entry requirements](https://www.aphis.usda.gov/aphis/pet-travel/by-country/pettravel-india) for exporting pets from the USA. Documents should be presented to the airlines staffduring check-in and the quarantine officer in customs after landing. 
 
