@@ -16,6 +16,12 @@
     --background-color: #000000;
     --theme-switch-color: #FFCB05;
 }
+@media screen and (max-width:400px)
+{
+body{
+margin:0px;
+    }
+}
 body {
   background-color: var(--background-color);
 }

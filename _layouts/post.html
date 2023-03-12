@@ -6,6 +6,7 @@ layout: default
 {% endcapture %}
         
 <div class="article_title">{{ page.title }}</div>
+<body>
 <p>
   <i class="fa-solid fa-calendar-days"></i>
   {{ page.date | date: "%B %-d, %Y" }} &nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,3 +15,5 @@ layout: default
 </p>
 
 <div class = "normal_text">{{ content }}</div>
+</body>
+
