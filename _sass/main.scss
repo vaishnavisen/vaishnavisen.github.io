@@ -4,7 +4,8 @@
     --navigation-color: #586F7C;
     --normal-text-color: #1F2833;
     --link-normal-text-color: #97CAEF;
-    --background-color: #FFFFFF
+    --background-color: #FFFFFF;
+    --theme-switch-color: #000000;
 }
 [data-theme="dark"] {
     --link-title-color: #FF968A;
@@ -12,7 +13,8 @@
     --navigation-color: #A1A6B4;
     --normal-text-color: #F8F8F8;
     --link-normal-text-color: #B4D2E7;
-    --background-color: #000000
+    --background-color: #000000;
+    --theme-switch-color: #FFCB05;
 }
 body {
   background-color: var(--background-color);
@@ -103,7 +105,7 @@ em {
   height: 1em;
   width: 1em;
   margin-right: 0.5em;
-  color: var(--navigation-color)
+  color: var(--theme-switch-color);
 }
 .post-metadata {
   color: var(--normal-text-color);
