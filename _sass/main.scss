@@ -16,12 +16,12 @@
     --background-color: #000000;
     --theme-switch-color: #FFCB05;
 }
-@media screen and (max-width:480px)
+@media screen and (max-width:600px)
 {
 body{
 margin-left: 0%;
 margin-right: 0%;
-    }
+background-color: lightblue;
 }
 body {
   background-color: var(--background-color);
