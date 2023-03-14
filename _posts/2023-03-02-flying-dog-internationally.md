@@ -46,13 +46,13 @@ There are [country specific entry requirements](https://www.aphis.usda.gov/aphis
 3. No Objection Certificate (NOC)
      
     I hired an [Indian pet relocator](http://globalcargo.co.in/contact.html) to help get this one from the Animal Quarantine and Certification Services(AQCS) in India. They needed the following documents     at  least 7 days before the flight:
-    - USDA Health certificate 
-    - Vaccination record
-    - My passport and visa documents
-    - Ticket to India
-    - A letter from my employer confirming the reason for my move 
-    - A photo of my dog
-    - My address in India  
+    * USDA Health certificate 
+    * Vaccination record
+    * My passport and visa documents
+    * Ticket to India
+    * A letter from my employer confirming the reason for my move 
+    * A photo of my dog
+    * My address in India  
      
     They also asked me to confirm that:
     - I had been in the USA for atleast the last 2 years and any short visits to India were not more than a total of 180 days. 
@@ -86,7 +86,7 @@ I filled a ziplock bag with a meal worth of dry food and attached it to the top 
 
 ### Driving to the airport and checking in
 
-My extremely kind friend drove us to the Atlanta airport on the day of our flight. The 48 inch crate was disassembled to fit in a Volvo XC90 along with my luggage. We did not hit any major traffic on the way and reached Atlanta on time. We made a stop near the airport for one last potty break for my dog before the flight. 
+My kind friend drove us to the Atlanta airport on the day of our flight. The 48 inch crate was disassembled to fit in a Volvo XC90 along with my luggage. We did not hit any major traffic on the way and reached Atlanta on time. We made a stop near the airport for one last potty break for my dog before the flight. 
 
 At the airport curb, we quickly put the crate back together. My friend loaded it on an airport cart - the crate was unproportionally large for the cart, but it somehow worked. Together, we took the crate, my luggage and my dog who was on leash to the Lufthansa economy check in counter. My dog was totally enjoying this new experience - a huge room filled with people, blissfully unaware of what I had planned for his next 24 hours. The airline agents checked his NOC certificate, rabies vaccination certificate, acclimation certificate and then the crate. They confirmed that everything looked good and affixed more stickers on the crate. My friend and I looked at each other relieved.  
 
