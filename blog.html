@@ -9,7 +9,7 @@ title: Blog Posts
     {% capture words %}
       {{ post.content | number_of_words }}
     {% endcapture %}
-    <li>
+    <li style="list-style-type:none">
       <a class = "link_title" href="{{ post.url }}">{{ post.title }}</a>
       <p class = "post_metadata">
         <i class="fa-solid fa-calendar-days"></i>
