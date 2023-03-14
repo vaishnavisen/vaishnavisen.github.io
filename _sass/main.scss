@@ -16,6 +16,9 @@
     --background-color: #000000;
     --theme-switch-color: #FFCB05;
 }
+body {
+  background-color: var(--background-color);
+}
 @media screen and (max-width:600px)
 {
 body{
@@ -23,9 +26,6 @@ margin-left: 0%;
 margin-right: 0%;
 background-color: lightblue;
 }
-}
-body {
-  background-color: var(--background-color);
 }
 .link_title {
   font-size: 15pt;
