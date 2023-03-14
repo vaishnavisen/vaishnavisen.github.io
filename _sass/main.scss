@@ -19,14 +19,17 @@
 body {
   background-color: var(--background-color);
 }
+
 @media screen and (max-width:600px)
 {
-body{
-margin-left: 0%;
-margin-right: 0%;
-background-color: lightblue;
+#page_margin {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 0%;
+  margin-right: 0%;
 }
 }
+
 .link_title {
   font-size: 15pt;
   color: var(--link-title-color);
