@@ -46,6 +46,7 @@ There are [country specific entry requirements](https://www.aphis.usda.gov/aphis
 3. No Objection Certificate (NOC)
      
     I hired an [Indian pet relocator](http://globalcargo.co.in/contact.html) to help get this one from the Animal Quarantine and Certification Services(AQCS) in India. They needed the following documents     at  least 7 days before the flight:
+   
     * USDA Health certificate 
     * Vaccination record
     * My passport and visa documents
@@ -55,7 +56,8 @@ There are [country specific entry requirements](https://www.aphis.usda.gov/aphis
     * My address in India  
      
     They also asked me to confirm that:
-    - I had been in the USA for atleast the last 2 years and any short visits to India were not more than a total of 180 days. 
+   
+    - I had been in the USA for atleast the last 2 years and any short visits to India were not more than a total of 180 days 
     - I won't return to the USA with my dog for at least 3-4 months
      
     They verified all the documents and submitted them to the AQCS office, who then quickly provided the No Objection Certificate. I emailed copies to the airline offices at the origin and destination air    por ts before the flight.
