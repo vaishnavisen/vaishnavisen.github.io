@@ -15,7 +15,7 @@ A couple of months ago, I found out I had to move from the USA to India temporar
 
 There are two options to fly your dog internationally - excess baggage and manifest cargo. With excess baggage, the dog is linked to the owner's flight booking. With manifest cargo, the dog needs a separate booking. Airlines usually require a professional pet relocation company to do the booking. The company handles the entire process on your behalf, making this the least stressful and the most expensive option. For my situation, I chose excess cargo with Lufthansa airlines. When booking my flight ticket, I also requested a spot for my dog. After confirming there was space available in the cargo, the agent asked a couple of questions about my dog, size of his crate etc. and added my dog to the ticket. This was also mentioned on the itinerary emailed to me.
 
-![Animal Transport Confirmation](/assets/images/lufthansa_akira_comfirmation.png)
+![Animal Transport Confirmation](/assets/images/lufthansa_akira_confirmation.png)
 
 Each airline has its own rules and restrictions regarding dog breeds, weight, size of the crate etc. Some airlines even require live animals to be transported only as manifest cargo. It is important to make the reservation as early as possible to avoid last minute surprises.
 
