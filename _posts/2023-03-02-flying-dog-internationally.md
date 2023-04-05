@@ -6,8 +6,8 @@ author: Vaishnavi
 date: 2023-03-02
 title: I tried to fly my dog from the USA to India
 ---
-{% include disqus.html %}
-Spolier Alert! I failed.
+
+Spoiler Alert! I failed.
 
 A couple of months ago, I found out I had to move from the USA to India temporarily. I had no idea how long 'temporary' was. A dog owner's nightmare! After much thought, I decided to take my 65 pound golden retriever with me to India in an airplane as excess baggage. I spent the following months preparing for our travel and making sure I had everything to ensure a smooth journey for my dog. On the day of our flight, my dog's documents were checked by the airlines' employees and he was ready to be boarded. Great! They then looked at my passport and asked me for a transit visa that I didn't have. Not great! Unfortunately, we could not fly that day. But I was so close, close enough for me to believe that sharing my experience here is valuable.  
 
@@ -99,6 +99,9 @@ Focus then shifted to my documents and we found out that I needed a transit visa
 While preparing for my dog's travel, I was constantly searching for resources that covered all aspects of the process at the required level of detail. But beyond high level articles published by pet relocation companies, I could not find much. Hence this post, to document the process and experience from the perspective of a dog owner in hopes that it will help someone in the future.  
 
 Finally, a huge shoutout to my family and my Cincinnati friends - Ben, Chris, Bryson, Katie, Bryson Jr., Dottie, Gene, Justin, Stephanie, Kaytie, Spencer. Thank you for standing by me throughout this difficult experience. My first ever blog post is dedicated to you guys!  
+<p style="text-align: center;">-------------------</p>
+<br/>
 
 
 
+{% include disqus.html %}
